@@ -54,6 +54,7 @@ export class ResMenu extends Component {
             tabIndex={0}
             aria-label="Navigation"
             role="button"
+            className="logo-text"
           >
             <Logo />
           </Link>

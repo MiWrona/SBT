@@ -17,6 +17,14 @@
   height: 6rem;
 }
 
+.Nav--Container .logo-text{
+  text-decoration: none;
+  color: black;
+  font-size: 35px;
+  margin-left: 25px;
+  font-weight: bold;
+}
+
 .Nav--Links {
   display: flex;
   align-items: center;
@@ -32,6 +40,7 @@
 .Nav .Logo {
   margin-right: 3rem;
   position: relative;
+  text-decoration: none;
 
 }
 
